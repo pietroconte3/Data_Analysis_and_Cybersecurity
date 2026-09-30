@@ -27,4 +27,3 @@ Ricerca e sperimentazione su come i sistemi NIDS per IoT possano adattarsi conti
 *   **Architetture Deep Learning:** 2D CNN, Vision Transformer (ViT_CCT_TON), ROBUSTA.
 *   **Metodi CIL & Distillazione:** Bias Correction (BiC), Memento, Knowledge Distillation, Prefix Tuning (Delta Parameters).
 *   **Dataset & Data Processing:** TON-IoT (estrazione di 6 feature di intestazione dai primi 10 pacchetti per ogni biflow).
-*   **Ambiente di Sviluppo:** Google Colab.
